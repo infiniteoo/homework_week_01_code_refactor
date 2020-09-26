@@ -1,8 +1,3 @@
-/*
-    to do: ensure this CSS file is 'properly commented' 
-*/
-
-
 * {
     box-sizing: border-box;
     padding: 0;
@@ -55,6 +50,10 @@ p {
     font-size: 16px;
 }
 
+/*
+    background image linked here via CSS and put in the 'hero' container via HTML
+*/
+
 .hero {
     height: 800px;
     width: 100%;
@@ -64,14 +63,16 @@ p {
     background-position: center;
 }
 
+.float-left, .float-right {
+    margin-right: 25px;
+}
+
 .float-left {
     float: left;
-    margin-right: 25px;
 }
 
 .float-right {
     float: right;
-    margin-left: 25px;
 }
 
 .content {
@@ -91,6 +92,11 @@ p {
     background-color: #2589bd;
 }
 
+/*
+    LOTS of redundancy in the following CSS elements that needed to be 
+    consolidated into more streamlined and concise code blocks.
+*/
+
 .benefit-lead, .benefit-brand, .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -101,7 +107,7 @@ p {
     text-align: center;
 }
 
-.benefit-lead img, .benefit-brand img, .benefit-cost img  {
+.benefit-lead img, .benefit-brand img, .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
