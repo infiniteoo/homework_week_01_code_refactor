@@ -35,7 +35,7 @@ This project can be previewed live via Github Pages at: https://infiniteoo.githu
 
 ### License
 
-Copyright 2020 T. Dorman, distrubuted under the **GNU Public License** for the Univeristy of Minnesota Part-Time Full Stack Coding Boot Camp.
+Copyright 2020 T. Dorman, distrubuted under the **GNU Public License** for the University of Minnesota Part-Time Full Stack Coding Boot Camp.
 
 
 
