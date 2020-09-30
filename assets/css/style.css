@@ -51,7 +51,8 @@ p {
 }
 
 /*
-    background image linked here via CSS and put in the 'hero' container via HTML
+    background image linked here via CSS and put in the 'hero' container via HTML.
+    to add alt text to background image we use "title" in the html div container
 */
 
 .hero {

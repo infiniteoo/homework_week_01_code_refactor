@@ -11,13 +11,13 @@ elements work properly, and all code was optimized for efficiency and less redun
 A detailed breakdown of steps taken by the development team are as follows:
 
 
-* Changed copyright year from 2019 to 2020
-* Ensured "Search Engine Optimization" link in navigation bar functioned properly
-* Consolidated multiple, redundant CSS element style tags
+* Changed copyright year from 2019 to 2020.
+* Ensured "Search Engine Optimization" link in navigation bar functioned properly.
+* Consolidated multiple, redundant CSS element style tags.
 * Gave website title: "Horiseon Social Solution Services, Inc."
-* formatted HTML and CSS code properly, including paragraph tags formatted for one-page viewing
-* added **"alt"** tags to all images (except the background image) which helps optimize SEO
-* introduced semantic naming for elements. refactored header, footer, aside, and sections from existing divs.
+* Formatted HTML and CSS code properly, including paragraph tags formatted for one-page viewing.
+* Added **"alt"** tags to all images which helps optimize SEO, enhances accessibility and readability. 
+* Introduced semantic naming for elements. refactored header, footer, aside, articles, and sections from existing divs.
 
 
 ### Installation
