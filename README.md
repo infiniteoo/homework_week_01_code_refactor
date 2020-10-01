@@ -4,8 +4,8 @@
 
 ### Overview
 
-This repository for Hori**seo**n Marketing is a code refactor assignment, focused on streamlining their website's 
-codebase for **search engine optimization** and **accessibility**.  A double check was conducted to ensure all 
+This repository for Hori**seo**n Social Solution Services, Inc. is a code refactor assignment, focused on streamlining their  
+website's codebase for **search engine optimization** and **accessibility**.  A double check was conducted to ensure all 
 elements work properly, and all code was optimized for efficiency and less redundancy.  
 
 A detailed breakdown of steps taken by the development team are as follows:
