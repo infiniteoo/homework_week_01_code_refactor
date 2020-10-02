@@ -32,9 +32,9 @@ Installation should be fairly straightforward, but here's a quick guide to get u
 
 This project can be previewed live via Github Pages at: https://infiniteoo.github.io/homework_week_01_code_refactor/
 
-![screenshot of finished website #1](../assets/images/screenshot1.PNG)
-![screenshot of finished website #2](../assets/images/screenshot2.PNG)
-![screenshot of finished website #3](../assets/images/screenshot3.png)
+![screenshot of finished website #1](/assets/images/screenshot1.PNG)
+![screenshot of finished website #2](/assets/images/screenshot2.PNG)
+![screenshot of finished website #3](/assets/images/screenshot3.png)
 
 
 ### License
